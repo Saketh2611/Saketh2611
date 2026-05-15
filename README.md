@@ -14,12 +14,8 @@
 ### 🧠 Who am I?
 
 - 🎓 **B.Tech Aerospace Engineering** — IIT Madras (2022–2026)
-- ⚡ **AIR 3,295** in JEE Advanced 2022 among 1.59L applicants
-- 💻 **700+ DSA problems** solved across LeetCode, GFG, CodeChef
 - 🤖 Specialise in **production AI systems** — RAG, agents, semantic search, LLM fine-tuning
 - 🚀 Comfortable across **AI/ML, backend, full-stack, and DevOps**
-- 🏀 **Gold** — Inter-Hostel Basketball Tournament, IIT Madras
-- 🏅 **State Rank 32** — International Olympiad of Mathematics 2017
 
 <br clear="right"/>
 
