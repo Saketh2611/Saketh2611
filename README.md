@@ -14,7 +14,7 @@
 ### 🧠 Who am I?
 
 - 🎓 **B.Tech Aerospace Engineering** — IIT Madras (2022–2026)
-- 🤖 Specialise in **production AI systems** — RAG, agents, semantic search, LLM fine-tuning
+- 🤖 Specialise in **production AI and Backend systems** — APIs, DBs, RAG, agents, semantic search, LLM fine-tuning
 - 🚀 Comfortable across **AI/ML, backend, full-stack, and DevOps**
 
 <br clear="right"/>
