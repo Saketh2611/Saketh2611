@@ -9,15 +9,24 @@
 
 ---
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saketh2611&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+```lisp
+ 
+     ,     #_
+   ~\_  ####_       
+  ~~  \_#####\
+  ~~     \###|                                       VADDIPARTHI SAKETH 
+  ~~       \#/ ___                   B.Tech Aerospace Engineering** — IIT Madras (2022–2026)                   
+   ~~       V~' '->   Specialise in production AI and Backend systems — APIs, DBs, RAG, agents, semantic search, LLM fine-tuning
+    ~~~         /                    Comfortable across AI/ML, backend, full-stack, and DevOps
+      ~~._.   _/
+         _/ _/
+       _/m/'
+```
 
-### 🧠 Who am I?
 
-- 🎓 **B.Tech Aerospace Engineering** — IIT Madras (2022–2026)
-- 🤖 Specialise in **production AI and Backend systems** — APIs, DBs, RAG, agents, semantic search, LLM fine-tuning
-- 🚀 Comfortable across **AI/ML, backend, full-stack, and DevOps**
+---
 
-<br clear="right"/>
+<img align="center" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saketh2611&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 ---
 
