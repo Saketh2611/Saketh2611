@@ -10,17 +10,31 @@
 ---
 
 ```lisp
- 
-     ,     #_
-   ~\_  ####_       
-  ~~  \_#####\
-  ~~     \###|                                       VADDIPARTHI SAKETH 
-  ~~       \#/ ___                   B.Tech Aerospace Engineering** — IIT Madras (2022–2026)                   
-   ~~       V~' '->   Specialise in production AI and Backend systems — APIs, DBs, RAG, agents, semantic search, LLM fine-tuning
-    ~~~         /                    Comfortable across AI/ML, backend, full-stack, and DevOps
-      ~~._.   _/
-         _/ _/
-       _/m/'
+               ____________                                                                  ____________
+              < Yeaaa bug fixed! >                                                           < Incoming Bug! >
+               ------------                                                                  ------------
+                        \                                                                    \         ,        ,
+                         \                                                                     \       /(        )`
+                          \          __---__                                                       \      \ \___   / |
+                                  _-       /--______                                                      /- _  `-/  '
+                             __--( /     \ )XXXXXXXXXXX\v.                                               (/\/ \ \   /\
+                           .-XXX(   O   O  )XXXXXXXXXXXXXXX-                                             / /   | `    \
+                          /XXX(       U     )        XXXXXXX\                                            O O   ) /    |
+                        /XXXXX(              )--_  XXXXXXXXXXX\                                          `-^--'`<     '
+                       /XXXXX/ (      O     )   XXXXXX   \XXXXX\                                        (_.)  _  )   /
+                       XXXXX/   /            XXXXXX   \__ \XXXXX                                         `.___/`    /
+                       XXXXXX__/          XXXXXX         \__---->                                          `-----' /
+               ---___  XXX__/          XXXXXX      \__         /                              <----.     __ / __   \
+                 \-  --__/   ___/\  XXXXXX            /  ___--/=                              <----|====O)))==) \) /====
+                  \-\    ___/    XXXXXX              '--- XXXXXX                              <----'    `--' `.__,' \
+                     \-\/XXX\ XXXXXX                      /XXXXX                                           |        |
+                       \XXXXXXXXX   \                    /XXXXX/                                            \       /
+                        \XXXXXX      >                 _/XXXXX/                                       ______( (_  / \______
+                          \XXXXX--__/              __-- XXXX/                                       ,'  ,-----'   |        \
+                           -XXXXXXXX---------------  XXXXXX-                                        `--{__________)        \/
+                              \XXXXXXXXXXXXXXXXXXXXXXXXXX/
+                                ""VXXXXXXXXXXXXXXXXXXV""
+                             
 ```
 
 
