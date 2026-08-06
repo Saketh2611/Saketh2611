@@ -10,30 +10,18 @@
 ---
 
 ```lisp
-               ____________                                                                  ____________
-              < Yeaaa bug fixed! >                                                           < Incoming Bug! >
-               ------------                                                                  ------------
-                        \                                                                    \         ,        ,
-                         \                                                                     \       /(        )`
-                          \          __---__                                                       \      \ \___   / |
-                                  _-       /--______                                                      /- _  `-/  '
-                             __--( /     \ )XXXXXXXXXXX\v.                                               (/\/ \ \   /\
-                           .-XXX(   O   O  )XXXXXXXXXXXXXXX-                                             / /   | `    \
-                          /XXX(       U     )        XXXXXXX\                                            O O   ) /    |
-                        /XXXXX(              )--_  XXXXXXXXXXX\                                          `-^--'`<     '
-                       /XXXXX/ (      O     )   XXXXXX   \XXXXX\                                        (_.)  _  )   /
-                       XXXXX/   /            XXXXXX   \__ \XXXXX                                         `.___/`    /
-                       XXXXXX__/          XXXXXX         \__---->                                          `-----' /
-               ---___  XXX__/          XXXXXX      \__         /                              <----.     __ / __   \
-                 \-  --__/   ___/\  XXXXXX            /  ___--/=                              <----|====O)))==) \) /====
-                  \-\    ___/    XXXXXX              '--- XXXXXX                              <----'    `--' `.__,' \
-                     \-\/XXX\ XXXXXX                      /XXXXX                                           |        |
-                       \XXXXXXXXX   \                    /XXXXX/                                            \       /
-                        \XXXXXX      >                 _/XXXXX/                                       ______( (_  / \______
-                          \XXXXX--__/              __-- XXXX/                                       ,'  ,-----'   |        \
-                           -XXXXXXXX---------------  XXXXXX-                                        `--{__________)        \/
-                              \XXXXXXXXXXXXXXXXXXXXXXXXXX/
-                                ""VXXXXXXXXXXXXXXXXXXV""
+           _________________________
+          < Observe. Infer. Verify. >
+           -------------------------
+             \
+              \
+                  .--.
+                 |o_o |
+                 |:_/ |
+                //   \ \
+               (|     | )
+              /'\_   _/`\
+              \___)=(___/
                              
 ```
 
