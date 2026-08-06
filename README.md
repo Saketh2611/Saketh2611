@@ -137,21 +137,20 @@
     </th>
   </tr>
   <tr>
-    <th align="center">Enterprise Banking AI Agent</th>
+    <th align="center">GitHub Agent</th>
     <th align="center">AI Multi-Agent Workflow (MAW)</th>
   </tr>
   <tr>
     <td align="center">
       <details open>
-        <summary>Fine-tuned NLP + hybrid RAG ·</summary>
-        Fine-tuned <b>DistilBERT (~84% acc)</b> for intent classification + <b>BERT-NER (0.048 loss)</b> for entity extraction. Hybrid RAG + SQL with FAISS and a deterministic router. Deployed on AWS t3.small via Docker + swap memory optimisation.
+        <summary>Autonomous NL→API agent · runtime capability synthesis · self-improving</summary>
+        Executes natural language instructions against the <b>GitHub REST API</b> through a Planner → Executor → Synthesizer pipeline. Synthesizes new API capabilities at runtime for unfamiliar operations, then logs execution history in <b>Supabase</b> to reuse successful strategies and cut API calls on repeat runs. <b>Groq</b> primary LLM with AWS Bedrock fallback.
         <br><br>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" />
-        <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat&logo=meta&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi" />
-        <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Groq-F55036?style=flat&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub_API-181717?style=flat&logo=github&logoColor=white" />
       </details>
       <img width="900" height="1" alt="">
     </td>
@@ -171,34 +170,32 @@
     </td>
   </tr>
   <tr>
-    <th align="center">Med-Mistral AI</th>
-    <th align="center">Multi-Modal Ticket Classifier</th>
+    <th align="center">QueueCTL</th>
+    <th align="center">PaperPulse</th>
   </tr>
   <tr>
     <td align="center">
       <details open>
-        <summary>Mistral-7B fine-tuned for medical Q&A · 65% memory cut via QLoRA</summary>
-        Fine-tuned <b>Mistral-7B</b> on MedAlpaca with <b>QLoRA + HuggingFace PEFT</b> (training loss 0.89). 4-bit NF4 quantisation slashed memory 65% (15GB to 5GB) for consumer-grade inference. Dockerised for cross-platform deployment (CUDA/MPS).
+        <summary>CLI background job queue · SQLite WAL persistence · workers with backoff & DLQ</summary>
+        Python CLI job queue with exponential backoff retries and a Dead Letter Queue for permanently failed jobs. State persists to <b>SQLite (WAL mode)</b> using <b>BEGIN IMMEDIATE</b> transactions, guaranteeing no two worker processes claim the same job. Cross-platform process management, validated by 22 tests across unit/CLI/E2E layers.
         <br><br>
-        <img src="https://img.shields.io/badge/Mistral_7B-FF6B35?style=flat&logoColor=white" />
-        <img src="https://img.shields.io/badge/QLoRA_PEFT-7B2FBE?style=flat&logoColor=white" />
-        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/WandB-FFBE00?style=flat&logo=weightsandbiases&logoColor=black" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Rich-FAE742?style=flat&logoColor=black" />
+        <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white" />
+        <img src="https://img.shields.io/badge/Multiprocessing-4B8BBE?style=flat&logoColor=white" />
       </details>
       <img width="900" height="1" alt="">
     </td>
     <td align="center">
       <details open>
-        <summary>ResNet18 + BERT + Whisper fusion · VLM-inspired dual-stream PyTorch</summary>
-        Fused <b>ResNet18 CNN</b> image features + <b>BERT text</b> embeddings + <b>Whisper audio</b> transcription for multi-modal ticket classification. Dual-stream PyTorch model trained end-to-end and deployed via Streamlit.
+        <summary>Daily arXiv digest bot · Groq summarization · Gmail SMTP delivery</summary>
+        Fetches recent papers across six arXiv categories (cs.AI, cs.CL, cs.LG, cs.CV, cs.RO, cs.NE) and summarizes each with the <b>Groq API</b> — key contributions, significance, and applications. Delivers a formatted digest via <b>Gmail SMTP</b>, with sent-paper IDs tracked locally to avoid duplicates and a fallback summary on rate limits.
         <br><br>
-        <img src="https://img.shields.io/badge/BERT-0070AD?style=flat&logoColor=white" />
-        <img src="https://img.shields.io/badge/ResNet18-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/Whisper-412991?style=flat&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/Streamlit-FE4B4B?style=flat&logo=streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Groq-F55036?style=flat&logoColor=white" />
+        <img src="https://img.shields.io/badge/arXiv_API-B31B1B?style=flat&logo=arxiv&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gmail_SMTP-EA4335?style=flat&logo=gmail&logoColor=white" />
       </details>
       <img width="900" height="1" alt="">
     </td>
