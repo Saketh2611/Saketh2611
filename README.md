@@ -86,6 +86,7 @@
       <img width="900" height="1" alt="">
     </td>
     <td align="center">
+      <img src="https://img.shields.io/badge/C-0467DF?style=for-the-badge&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
       <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
